@@ -1,5 +1,5 @@
 ---
-title: Second Page Title Here
+title: Second Page
 filename: second.md
 ---
 
