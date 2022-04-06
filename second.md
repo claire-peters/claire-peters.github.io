@@ -5,4 +5,8 @@ filename: second.md
 
 ## Second page!
 
-More example text here.
+Resources for the Public Research Website Workshop:
+
+[Markdown Resources](markdown.md)
+
+[Add a pdf to your site](pdf.md)
